@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 /**
-*main- prints all possible different combinations of three digits
+*main - Entry point
+*
+*Description: 'print all possible different comb of three digits numbers'
+*
 *Returns: Always 0 (Success)
 */
+
 int main(void)
 {
 	int n, m, l;
